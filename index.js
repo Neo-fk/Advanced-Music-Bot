@@ -22,4 +22,4 @@ require('http').createServer((req, res) => res.end(`
 const client = new Bot();
 
 
-(async () => await client.start(process.env.TOKEN))();
+(async () => await client.start("OTA0MDc1MTA5MDk3MTY0ODky.GROhJe.xnu0SLcN6Edr0vkbNXTWTn-s_xQ7WcLczkoVWU"))();
